@@ -1,0 +1,10 @@
+https://stackify.com/net-core-vs-net-framework/
+https://www.tutorialsteacher.com/core/dotnet-core
+https://www.infoq.com/presentations/clr-coreclr/
+https://www.pragimtech.com/courses/asp-net-core-mvc-tutorial-for-beginners/
+
+
+Host Link Details
+URL:- https://seed1.webex.com/ 
+Username:- onlinewebinar@seedinfotech.com 
+PWD:- Seed@2020
